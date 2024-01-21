@@ -1,7 +1,7 @@
 
 ##  Resume 
 
-这是一个由rmd制作的简历，详细内容可以参考 jianli.html    或者  jianli.pdf  。
+这是一个由rmd制作的简历，详细内容可以参考 ![简历页面](https://lovivi.github.io/resume_rmd/jianli.html)   或者 ![简历下载](https://lovivi.github.io/resume_rmd/jianli.pdf)   。
 
 
 ### 

@@ -119,10 +119,10 @@ Last updated on `r Sys.Date()` by R.
 2022 - 2023
 
 ::: concise
--   生信相关：技术和管线开发，主要涉及NGS数据，芯片数据处理，和下游的分析工作。
--   IT和运维：技术相关(全栈)，主要涉及网站开发，服务部署，产品报告自动化，内部IT工具。
+-   生信相关：主要涉及NGS数据，芯片数据处理，和下游的分析工作。
+-   IT和运维：主要涉及网站开发，客户服务部署，产品报告自动化，内部IT工具实现。
 -   大模型：技术和应用相关，af2，progen及众llm，主要涉及模型部署，finetune，产品设计，效率优化。
--  部门管理：进行proposal设计和任务分配，硬件资源调配等。
+-   部门管理：进行proposal设计和任务分配，硬件资源调配等。
 :::
 
 
@@ -242,7 +242,7 @@ N/A
 
 ### Predicting early-onset COPD risk in adults aged 20-50 using electronic health records and machine learning (In review)
 
-PeerJ. Song J(2nd).
+PeerJ. Song J(CA).
 
 N/A
 
